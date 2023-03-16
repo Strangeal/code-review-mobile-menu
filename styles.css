@@ -420,7 +420,7 @@ textarea {
 
   .dev {
     background-image: url(img/header-shapesmobile@2x.svg);
-    background-position: 0% auto;
+    background-position: 0;
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
@@ -453,13 +453,13 @@ textarea {
   .form-form {
     background-image: url(img/contact-form-shapes-mobile.svg);
     background-repeat: no-repeat;
-    background-position: 0% auto;
+    background-position: 0;
     background-size: cover;
   }
 
   .dev {
     background-image: url(img/header-shapesmobile@2x.svg);
-    background-position: 0% auto;
+    background-position: 0;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -498,13 +498,13 @@ textarea {
   .form-form {
     background-image: url(img/contact-form-shapes-mobile.svg);
     background-repeat: no-repeat;
-    background-position: auto;
+    background-position: 0;
     background-size: 100% auto;
   }
 
   .dev {
     background-image: url(img/header-shapesmobile@2x.svg);
-    background-position: auto;
+    background-position: 0;
     background-size: 100% auto;
     background-repeat: no-repeat;
     width: 100%;
