@@ -22,8 +22,7 @@ a {
   text-decoration: none;
 }
 
-.logo a,
-.menu-icon a {
+.logo a {
   color: var(--clr-purple);
   font-weight: 700;
   font-size: 18px;
