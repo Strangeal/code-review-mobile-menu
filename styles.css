@@ -57,27 +57,7 @@ a {
   color: var(--clr-para);
 }
 
-.bar1 {
-  display: block;
-  width: 25px;
-  height: 3px;
-  margin: 5px auto;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-  background-color: var(--clr-purple);
-}
-
-.bar2 {
-  display: block;
-  width: 25px;
-  height: 3px;
-  margin: 5px auto;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-  background-color: var(--clr-purple);
-}
-
-.bar3 {
+.menu-icon > span {
   display: block;
   width: 25px;
   height: 3px;
