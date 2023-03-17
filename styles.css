@@ -71,11 +71,11 @@ a {
   background: #fff;
 }
 
-.menu-icon.active .bar1 {
+.menu-icon.active span {
   transform: translateY(8px) rotate(45deg);
 }
 
-.menu-icon.active .bar3 {
+.menu-icon.active span {
   transform: translateY(-8px) rotate(-45deg);
 }
 
