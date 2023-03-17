@@ -67,14 +67,16 @@ a {
   background-color: var(--clr-purple);
 }
 
+.menu-icon.active > span:nth-child(odd) {
+  background: #fff;
+}
+
 .menu-icon.active .bar1 {
   transform: translateY(8px) rotate(45deg);
-  background: #fff;
 }
 
 .menu-icon.active .bar3 {
   transform: translateY(-8px) rotate(-45deg);
-  background: #fff;
 }
 
 .menu-icon.active .bar2 {
